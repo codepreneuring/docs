@@ -13,15 +13,15 @@ let head = /*html*/ `
             </script>
 
             <title>DOCS - codepreneuring.com</title>
-            <link rel="shortcut icon" href="/pics/codepreneuring_favicon.png" type="image/x-icon" />
-            <link rel="icon" href="/pics/codepreneuring_favicon.png" type="image/x-icon" />
+            <link rel="shortcut icon" href="codepreneuring_favicon.png" type="image/x-icon" />
+            <link rel="icon" href="codepreneuring_favicon.png" type="image/x-icon" />
             
             <!-- SEO Keywords -->
             <meta name="keywords" content="learn, create, web, app, from, scratch, by, yourself, self, taught, full, stack" />
 
             <!-- HTML Meta Tags -->
             <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
-            <meta name="description" content="Code your business" />
+            <meta name="description" content="Learn to create web apps. From scratch. By yourself." />
             <meta name="robots" content="index, follow" />
 
             <!-- Social Meta Tags -->
@@ -29,7 +29,7 @@ let head = /*html*/ `
             <meta property="og:url" content="http://docs.codepreneuring.com" />
             <meta property="og:site_name" content="http://docs.codepreneuring.com" />
             <meta property="og:title" content="docs.codepreneuring.com" />
-            <meta property="og:description" content="Code your business" />
+            <meta property="og:description" content="Learn to create web apps. From scratch. By yourself." />
             <meta property="og:image" content="http://docs.codepreneuring.com/pics/codepreneuring_banner.jpg" />
                 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
 
